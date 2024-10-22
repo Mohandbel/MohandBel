@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=khedirwassim.khedirwassim" alt="visitor badge" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohanbel.Mohanbel" alt="visitor badge" />
 </div>
 
 ###
@@ -93,8 +93,8 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=khedirwassim&show_icons=true&theme=gruvbox&hide_border=true" height="180" alt="GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=khedirwassim&theme=gruvbox&hide_border=true" height="180" alt="GitHub streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohanbel&show_icons=true&theme=gruvbox&hide_border=true" height="180" alt="GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohanbel&theme=gruvbox&hide_border=true" height="180" alt="GitHub streak" />
 </div>
 
 ###
@@ -104,7 +104,7 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khedirwassim&layout=compact&theme=gruvbox&hide_border=true" height="150" alt="most used languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanbel&layout=compact&theme=gruvbox&hide_border=true" height="150" alt="most used languages" />
 </div>
 
 ###
